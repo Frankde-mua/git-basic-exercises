@@ -1,3 +1,2 @@
 Some stuff
 nano
-radnom
