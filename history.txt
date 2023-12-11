@@ -1,0 +1,138 @@
+    1  git clone https://github.com/Umuzi-org/Frank-DeMuady-963-contentitem-.git
+    2  git add .
+    3  cd Frank-DeMuady-963-contentitem-/
+    4  git add .
+    5  git commit -m "question 1 upload"
+    6  git add .
+    7  git commit -m "question 2 upload"
+    8  git add .
+    9  git commit -m "question 3 upload"
+   10  git add question_3.md
+   11  git commit -m "question 3 upload"
+   12  git add question_4.md
+   13  git commit -m "question 4 upload"
+   14  git add .
+   15  git commit -m "question 5 upload"
+   16  git add .
+   17  git commit -m "question 6 upload"
+   18  git push
+   19  git add question_4.md
+   20  git commit -m "question 4 upload"
+   21  git push
+   22  node test.js 
+   23  node test.js 
+   24  node test.js 
+   25  node test.js 
+   26  node test.js 
+   27  node test.js 
+   28  cd ..
+   29  ls
+   30  git clone https://github.com/Umuzi-org/Frank-DeMuady-219-level-1-programming-katas-javascript.git
+   31  cd Frank-DeMuady-219-level-1-programming-katas-javascript/
+   32  git checkut task3
+   33  git checkout task3
+   34  git add task3.js
+   35  git commit -m "Strict eqaul to changes"
+   36  git push
+   37  ls
+   38  cd ..
+   39  ls
+   40  cd ..
+   41  ls
+   42  cd ..
+   43  ls
+   44  cd ttt
+   45  ls
+   46  mkdir git-basic-exercises
+   47  cd git-basic-exercises/
+   48  nano file.js
+   49  ls
+   50  cd ..
+   51  rm git-basic-exercises/
+   52  rm -f git-basic-exercises/
+   53  git rm -f git-basic-exercises/
+   54  rm -d git-basic-exercises/
+   55  rm -df git-basic-exercises/
+   56  rm -rf git-basic-exercises/
+   57  ls
+   58  mkdir git-basic-exercises
+   59  cd git-basic-exercises/
+   60  nano file.js
+   61  ls
+   62  cd ..
+   63  rm -r git-basic-exercises/
+   64  ls
+   65  cd dev/
+   66  ls
+   67  git clone https://github.com/Umuzi-org/Frank-DeMuady-429-bootcamp-writing-assignment-.git
+   68  cd Frank-DeMuady-429-bootcamp-writing-assignment-/
+   69  git rm .
+   70  git rm -r 
+   71  git rm -r .
+   72  ls
+   73  git push
+   74  git add .
+   75  git commit -m "modifer"
+   76  git push
+   77  git add .
+   78  git commit "Question 1"
+   79  git commit -m "Question 1"
+   80  git add .
+   81  git commit -m "Question 2"
+   82  git add .
+   83  git commit -m "Question 3"
+   84  git add .
+   85  git commit -m "Question 4"
+   86  git add .
+   87  git commit -m "Question 5"
+   88  git add .
+   89  git commit -m "Question 5"
+   90  git add .
+   91  git commit -m "Question 6"
+   92  git add .
+   93  git commit -m "Question 7"
+   94  git add .
+   95  git commit -m "Question 8"
+   96  git add .
+   97  git commit -m "Question 9"
+   98  git add .
+   99  git commit -m "Question 10"
+  100  git add .
+  101  git commit -m "Question 11"
+  102  git status
+  103  git push
+  104  git add .
+  105  git commit -m "Question 1 & 2"
+  106  git push
+  107  ls
+  108  cd ..
+  109  ls
+  110  cd ..
+  111  ls
+  112  mkdir git-basic-exercises
+  113  cd git-basic-exercises/
+  114  git init
+  115  touch README.md
+  116  ls -a
+  117  git log
+  118  git add
+  119  git add .
+  120  git commit -m "initial commit"
+  121  git log
+  122  nano README.md 
+  123  cat README.md 
+  124  git status
+  125  git commit -m "second commit"
+  126  git add .
+  127  git commit -m "second commit"
+  128  nano README.md 
+  129  git add .
+  130  git commit -m "third commit"
+  131  git log
+  132  git checkout -b milkshake-flavours
+  133  nano milkshakes.md
+  134  git add .
+  135  git commit -m "added initial flavours"
+  136  git log
+  137  git checkout -b history
+  138  history > history.txt
