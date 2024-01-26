@@ -19,14 +19,6 @@
    19  git add question_4.md
    20  git commit -m "question 4 upload"
    21  git push
-   22  node test.js 
-   23  node test.js 
-   24  node test.js 
-   25  node test.js 
-   26  node test.js 
-   27  node test.js 
-   28  cd ..
-   29  ls
    30  git clone https://github.com/Umuzi-org/Frank-DeMuady-219-level-1-programming-katas-javascript.git
    31  cd Frank-DeMuady-219-level-1-programming-katas-javascript/
    32  git checkut task3
